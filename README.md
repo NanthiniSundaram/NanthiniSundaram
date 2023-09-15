@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nanthinisundaram&label=Profile%20views&color=0e75b6&style=flat" alt="nanthinisundaram" /> </p>
 
-- 📫 How to reach me **nanthinisk16@gmail.com**
+
 
 
 <p align="left">
